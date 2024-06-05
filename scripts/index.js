@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Feb 02, 2022',
-  name: 'ADEKKU SAYANGG MITA :)'
+  birthdate: 'June 08, 2024',
+  name: 'MITA SAYANGG ❤️'
 };
 
 function hideEverything() {
